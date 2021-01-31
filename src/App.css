@@ -1,0 +1,21 @@
+.col-6 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.poke-name {
+  height: 136px;
+}
+
+.btn {
+  width: 100%;
+}
+
+#pokedetails_img {
+  width: 180px;
+  height: 180px;
+}
+
+.btn_release {
+  width: auto;
+}
